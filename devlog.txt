@@ -1,0 +1,3 @@
+2017/11/18
+- mishap with hostgator oops
+- created patchy-recos github repo
