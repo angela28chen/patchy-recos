@@ -1,0 +1,12 @@
+2017/11/18
+- mishap with hostgator oops
+- created patchy-recos github repo
+- learning node.js with tutorialspoint.com
+	- useful tips: see paper notes
+
+2017/11/25
+- picking up tutorials at event-driven programming part
+
+2017/12/03
+- tutorials again, starting at utilities modules
+- look for how to set up static website on github
