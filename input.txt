@@ -1,2 +1,0 @@
-Tutorials Point is a pretty good tutorial website.
-I'm learning node.js more smoothly than I thought!
